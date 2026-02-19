@@ -11,6 +11,7 @@ Quick facts about the planets in the Solar System.
 
 ## Overview
 "The Solar System" is a simple website built without any framework, only using **HTML**, **CSS** and **JavaScript**.
+The website is live at [https://solar-system.webcris.icu/](https://solar-system.webcris.icu/)
 
-## Note
-This website is still work in progress and not all pages may work nor exist.
+## Notek
+If the information presented on this website is incorect, please contact me through email [itsme [at] code2craft [dot] xyz](mailto:itsme@code2craft.xyz) or other ways found [here](https://solar-system.webcris.icu/contact.html)
