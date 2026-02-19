@@ -16,5 +16,7 @@ function info(id) {
         window.location.href = loc + "/uranus.html";
     } else if (id === '8') {
         window.location.href = loc + "/neptune.html";
+    } else if (id === '0') {
+        alert("The Sun is the center of our solar system!")
     }
 }
