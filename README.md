@@ -14,4 +14,4 @@ Quick facts about the planets in the Solar System.
 The website is live at [https://solar-system.webcris.icu/](https://solar-system.webcris.icu/)
 
 ## Note
-If the information presented on this website is incorect, please contact me through email [itsme [at] code2craft [dot] xyz](mailto:me@crislzt.xyz) or other ways found [here](https://solar-system.webcris.icu/contact.html)
+If the information presented on this website is incorect, please contact me through email [itsme [at] code2craft [dot] xyz](mailto:itsme@code2craft.xyz) or other ways found [here](https://solar-system.webcris.icu/contact.html)
