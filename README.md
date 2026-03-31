@@ -1,4 +1,4 @@
-<h1 align="center">CrisOS</h1>
+<h1 align="center">The Solar System</h1>
 <p align="center"><i>The source code for solar-system.webcris.icu</i></p>
 
 [Getting Started](#getting-started) | [License](#license) | [Note](#note)
