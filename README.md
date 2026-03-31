@@ -1,17 +1,23 @@
-# The Solar System
-Quick facts about the planets in the Solar System.
+<h1 align="center">CrisOS</h1>
+<p align="center"><i>The source code for solar-system.webcris.icu</i></p>
 
----
+[Getting Started](#getting-started) | [License](#license) | [Note](#note)
 
-## Chapters:
-- [Overview](#overview)
-- [Note](#note)
+## Getting Started
+To get started, run this into your computer's terminal:
 
----
+1. Clone the repository:
 
-## Overview
-"The Solar System" is a simple website built without any framework, only using **HTML**, **CSS** and **JavaScript**.
-The website is live at [https://solar-system.webcris.icu/](https://solar-system.webcris.icu/)
+   ```bash
+   git clone https://github.com/crislazy/the-solar-system && cd the-solar-system
+   ```
+
+2. Open the index.html file
+
+> Note: If you fork or reuse this project, you may want to remove or update the `CNAME` file to use your own domain.
+
+## License
+This project’s source code is licensed under the MIT License.
 
 ## Note
 If the information presented on this website is incorect, please contact me through email [itsme [at] code2craft [dot] xyz](mailto:itsme@code2craft.xyz) or other ways found [here](https://solar-system.webcris.icu/contact.html)
